@@ -1,5 +1,5 @@
 
-Terms | ---
+Terms | Description
 --- | ---
 Kanban (board) | Visualize and progress project using cards on a board.
 Scrum (board) | Sprint toward project goals with a board and backlog.
