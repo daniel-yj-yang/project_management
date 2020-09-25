@@ -3,7 +3,7 @@ Project management tools for machine learning
 
 Atlassian tools | Description
 --- | ---
-<a href="./Jira/">Jira</a> | Dynamic issue tracking
+<a href="./Jira/">Jira</a> | An agile project management tool. dynamic issue tracking
 Confluence | Static wikipedia
 BitBucket |
 Git | 
