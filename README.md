@@ -3,7 +3,7 @@ Project management tools for machine learning
 
 Atlassian tools | Description
 --- | ---
-Jira | 
-Confluence | 
+<a href="./Jira/">Jira</a> | Dynamic issue tracking
+Confluence | Static wikipedia
 BitBucket |
 Git | 
